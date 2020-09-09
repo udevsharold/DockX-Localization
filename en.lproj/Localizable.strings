@@ -98,7 +98,6 @@
 "LONG_PASITHEA" = "Pasithea";
 
 //=====================Toast=====================
-//Used for showing shortcuts name in "Manage Shortcuts" etc.
 "TOAST_SELECT_ALL" = "Select All";
 "TOAST_COPY" = "Copy";
 "TOAST_PASTE" = "Paste";
