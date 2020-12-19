@@ -48,6 +48,7 @@
 "SHORT_TRANSLOMATIC" = "Trsmtc";
 "SHORT_WASABI" = "Wsbi";
 "SHORT_PASITHEA" = "Psthea";
+"SHORT_SPONGEBOB" = "sPoNge";
 
 //=====================Long Text for Shortcuts=====================
 //Used for showing shortcuts name in "Manage Shortcuts" etc.
@@ -96,6 +97,7 @@
 "LONG_TRANSLOMATIC" = "Translomatic";
 "LONG_WASABI" = "Wasabi";
 "LONG_PASITHEA" = "Pasithea";
+"LONG_SPONGEBOB" = "sPonGeBob teXt";
 
 //=====================Toast=====================
 "TOAST_SELECT_ALL" = "Select All";
@@ -143,6 +145,7 @@
 "TOAST_TRANSLOMATIC" = "Translomatic";
 "TOAST_WASABI" = "Wasabi";
 "TOAST_PASITHEA" = "Pasithea";
+"TOAST_SPONGEBOB" = "sPoNge";
 "TOAST_ON" = "On";
 "TOAST_OFF" = "Off";
 "TOAST_KEYBOARD_TYPE_GENERIC" = "Generic";
@@ -228,7 +231,8 @@ Previous & Next Word - select word
 Line Start & End - select line
 Start & End of Paragraph - select paragraph
 Start & End of Sentence  - select sentence
-Globe - activate dictation";
+Globe - activate dictation
+sPonGeBob teXt - select all and sPonGeBob";
 
 "FOOTER_TEXT_FOR_DEFAULT_LONG_PRESS_GESTURES_TRANSLOMATIC" = "Translomatic - select paragraph and translate";
 
