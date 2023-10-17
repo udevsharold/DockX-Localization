@@ -1,4 +1,4 @@
-//translated by udevs
+//translated by ИƎØ_ΙΙØZ
 
 //=====================Short Text for Shortcuts=====================
 //5 letters word is optimal
@@ -24,7 +24,7 @@
 "SHORT_MOVE_CURSOR_RIGHT" = "右";
 "SHORT_AUTO_CORRECTION" = "自修正";
 "SHORT_AUTO_CAPITALIZATION" = "自大寫";
-"SHORT_KEYBOARD_TYPE" = "輸入";
+"SHORT_KEYBOARD_TYPE" = "類型";
 "SHORT_MOVE_CURSOR_UP" = "上";
 "SHORT_MOVE_CURSOR_DOWN" = "下";
 "SHORT_DEFINE" = "替代";
@@ -76,7 +76,7 @@
 "LONG_MOVE_CURSOR_RIGHT" = "游標向右";
 "LONG_AUTO_CORRECTION" = "自動修正";
 "LONG_AUTO_CAPITALIZATION" = "自動大寫";
-"LONG_KEYBOARD_TYPE" = "鍵盤輸入";
+"LONG_KEYBOARD_TYPE" = "輸入鍵盤類型";
 "LONG_MOVE_CURSOR_UP" = "游標向上";
 "LONG_MOVE_CURSOR_DOWN" = "游標向下";
 "LONG_DEFINE" = "替代文字";
@@ -191,28 +191,28 @@
 "EXTRAS_PASTE_BEHAVIOUR" = "貼上行為";
 
 //Title
-"ENABLED_SHORTCUTS" = "Enabled Shorcuts";
-"DISABLED_SHORTCUTS" = "Disabled Shorcuts";
-"EXTRAS" = "Extras";
-"SHORTCUTS" = "Shortcuts";
+"ENABLED_SHORTCUTS" = "啟用捷徑";
+"DISABLED_SHORTCUTS" = "停用捷徑";
+"EXTRAS" = "附加功能";
+"SHORTCUTS" = "捷徑";
 
 //Error
-"INCOMPATIBLE_RESET" = "Incompatible, please reset";
+"INCOMPATIBLE_RESET" = "不相容，請重置";
 
 //Reset
-"RESET" = "Reset";
-"RESET_MESSAGE" = "Reset all shortcuts included customized long press, double tap and shooting star actions to default?";
-"RESET_YES" = "Yes";
-"RESET_NO" = "No";
+"RESET" = "重置";
+"RESET_MESSAGE" = "重置所有捷徑，包括長按客製化、點兩下與流星手勢動作為預設?";
+"RESET_YES" = "是";
+"RESET_NO" = "否";
 
 //Footer
-"FOOTER_TEXT_FOR_ENABLED_SHORTCUTS" = "Add as many shortcuts as you wish! Tap any shortcut to customize its gesture actions.
+"FOOTER_TEXT_FOR_ENABLED_SHORTCUTS" = "您可以新增任意數量的捷徑！點擊任何捷徑以客製化其手勢動作。
 
-NOTE: If you experiencing any issue or shortcuts not showing correctly, please reset.";
+注意：如果您遇到任何問題或捷徑顯示不正確，請進行重置。";
 
-"FOOTER_TEXT_FOR_EXTRAS" = "Tap item to customize.";
+"FOOTER_TEXT_FOR_EXTRAS" = "點一下以客製化。";
 
-"FOOTER_TEXT_FOR_DEFAULT_LONG_PRESS_GESTURES" = "Default long press gesture for:
+"FOOTER_TEXT_FOR_DEFAULT_LONG_PRESS_GESTURES" = "預設長按手勢為:
 Select - select all words
 Select All - select last word
 Copy - select all and copy
@@ -230,59 +230,59 @@ Delete Forward - select all and delete
 Bold - select last word and toggle bold face
 Italic - select last word and toggle italic
 Underline - select last word and toggle underline
-Cursor Left - move cursor backward exponentionally
-Cursor Right - move cursor forward exponentionally
-Cursor Up - move cursor upward exponentionally
-Cursor Down - move cursor downward exponentionally
-Keyboard Input - revert back to original input type
-Previous & Next Word - select word
-Line Start & End - select line
-Start & End of Paragraph - select paragraph
-Start & End of Sentence  - select sentence
-Globe - activate dictation
+游標向左 - 漸進加速將游標向左移動
+游標向右 - 漸進加速將游標向右移動
+游標向上 - 漸進加速將游標向上移動
+游標向下 - 漸進加速將游標向下移動
+輸入鍵盤類型 - 恢復原始輸入鍵盤類型
+前或後一字 - 選擇單字
+行首或行末 - 選擇單行
+段首或段末 - 選擇段落
+句首或句尾  - 選擇句子
+地球 - 啟用聽寫
 sPonGeBob teXt - select all and sPonGeBob";
 
 "FOOTER_TEXT_FOR_DEFAULT_LONG_PRESS_GESTURES_TRANSLOMATIC" = "Translomatic - select paragraph and translate";
 
 //=====================CUSTOM ACTIONS PAGE=====================
-"FIRST_ACTION" = "First Action";
-"SECOND_ACTION" = "Second Action";
-"FOOTER_FIRST_ACTION" = "This action will be performed prior to the second action below. It can be none. Leave all blank for default actions.";
+"FIRST_ACTION" = "第一動作";
+"SECOND_ACTION" = "第二動作";
+"FOOTER_FIRST_ACTION" = "此動作將優先執行。可以是空白。如需使用預設動作，請將所有欄位留空。";
 
 //=====================ADVANCED SETTINGS PAGE=====================
 //Shortcuts
-"FOOTER_SPACING" = "Spacing between shortcuts";
-"FOOTER_HEIGHT" = "Height";
-"FOOTER_RADIUS" = "Radius";
+"FOOTER_SPACING" = "捷徑間距";
+"FOOTER_HEIGHT" = "高度";
+"FOOTER_RADIUS" = "半徑";
 //Offsets
-"OFFSETS" = "Offsets";
-"FOOTER_OFFSETS_LEADING" = "Leading (Left)";
-"FOOTER_OFFSETS_TRAILING" = "Trailing (Right)";
-"FOOTER_OFFSETS_BOTTOM" = "Bottom (Vertical)";
-"FOOTER_OFFSETS_NOTICE" = "NOTE: Customized offsets might not work properly in one-handed keyboard mode.";
+"OFFSETS" = "微調";
+"FOOTER_OFFSETS_LEADING" = "靠左";
+"FOOTER_OFFSETS_TRAILING" = "靠右";
+"FOOTER_OFFSETS_BOTTOM" = "置中";
+"FOOTER_OFFSETS_NOTICE" = "注意：在單手鍵盤模式下，自定義的位移可能無法正常運作。";
 //Insets
-"INSETS" = "Insets";
-"FOOTER_INSETS_TOP" = "Top";
-"FOOTER_INSETS_BOTTOM" = "Bottom";
-"FOOTER_INSETS_LEFT" = "Left";
-"FOOTER_INSETS_RIGHT" = "Right";
+"INSETS" = "插圖大小";
+"FOOTER_INSETS_TOP" = "距上";
+"FOOTER_INSETS_BOTTOM" = "距下";
+"FOOTER_INSETS_LEFT" = "距左";
+"FOOTER_INSETS_RIGHT" = "距右";
 
 //=====================KEYBOARD INPUT BEHAVIOR=====================
-"DISABLED_INPUT_TYPE" = "Disabled Input Type";
-"ENABLED_INPUT_TYPE" = "Enabled Input Type";
-"FOOTER_ENABLED" = "Enabled input will be cycled when shorcut is tapped. \"Default\" type will be skipped if it is same as \"Original\". Set a minimum of 2 items, including Original.\n\nNOTE: Some input doesn't support changing input type, DockX indicates it by changing the current icon to hollow/grey/strikethrough.";
-"RESET_TO_DEFAULT_MESSAGE" = "Reset to default?";
-"KEYBOARD_INPUT_TYPE_TITLE" = "Keyboard Input";
+"DISABLED_INPUT_TYPE" = "停用切換輸入類型";
+"ENABLED_INPUT_TYPE" = "啟用切換輸入類型";
+"FOOTER_ENABLED" = "啟用後可透過捷徑循環切換。如果「預設」類型與「原始」相同，則會跳過「預設」類型。請設定至少兩個項目，包括「原始」。\n\n注意：某些輸入不支援更改鍵盤，DockX 將通過更變圖示為空心/灰色/刪除線來表示此情況。
+"RESET_TO_DEFAULT_MESSAGE" = "重設為預設值?";
+"KEYBOARD_INPUT_TYPE_TITLE" = "切換輸入鍵盤";
 
 //=====================CURSOR BEHAVIOR=====================
-"CURSOR_BEHAVIOR_WHOLE_PARA" = "Whole Paragraph";
-"CURSOR_BEHAVIOR_FROM_CURRENT_POS" = "From Current Position";
-"CURSOR_BEHAVIOR_WHOLE_LINE" = "Whole Line";
-"CURSOR_BEHAVIOR_WHOLE_SENTENCE" = "Whole Sentence";
-"CURSOR_BEHAVIOR_SINGLE_WORD" = "Single Word Only";
-"CURSOR_BEHAVIOR_CONTINUOUSLY" = "Continuously";
-"CURSOR_BEHAVIOR_NODE_TITLE" = "Default Long Press Behaviour";
-"FOOTER_CURSOR_BEHAVIOR" = "Choose the selection behaviour for default long press gesture.";
+"CURSOR_BEHAVIOR_WHOLE_PARA" = "整段";
+"CURSOR_BEHAVIOR_FROM_CURRENT_POS" = "從目前位置";
+"CURSOR_BEHAVIOR_WHOLE_LINE" = "整行";
+"CURSOR_BEHAVIOR_WHOLE_SENTENCE" = "整句";
+"CURSOR_BEHAVIOR_SINGLE_WORD" = "只有單字";
+"CURSOR_BEHAVIOR_CONTINUOUSLY" = "連續";
+"CURSOR_BEHAVIOR_NODE_TITLE" = "預設長按行為";
+"FOOTER_CURSOR_BEHAVIOR" = "選擇長按時的預設選擇行為。";
 
 //=====================GESTURES PAGE=====================
 "GESTURES" = "手勢";
