@@ -1,4 +1,4 @@
-//translated by udevs
+//translated by ИƎØ_ΙΙØZ
 
 //=====================Main Section Page=====================
 "TWEAK" = "外掛";
@@ -6,7 +6,7 @@
 "DISABLED" = "停用";
 "SHORTCUTS" = "捷徑";
 "HAPTIC" = "觸覺回饋";
-"SHAKE_SHORTCUT" = "捷徑抖動";
+"SHAKE_SHORTCUT" = "抖動圖示";
 "SHOW_TOAST" = "顯示彈出訊息";
 "ICON" = "圖示";
 "TEXT" = "文字";
@@ -37,8 +37,8 @@
 "SHORTCUTS_BACKGROUND_TINT" = "捷徑背景色調";
 "TOAST_TINT" = "彈出訊息色調";
 "TOAST_BACKGROUND_TINT" = "彈出訊息背景色調";
-"PAGING" = "呼叫";
-"FOOTER_PAGING" = "如果您在點擊捷徑時遇到顯視捲動回上一頁的情況，請停用分頁。";
+"PAGING" = "分頁";
+"FOOTER_PAGING" = "如果您在點擊捷徑時遇到分頁顯示捲動回上一頁的情況，請停用。";
 "ADVANCED" = "進階";
 "ADVANCED_SETTINGS" = "進階設定";
 "DEVELOPMENT" = "開發";

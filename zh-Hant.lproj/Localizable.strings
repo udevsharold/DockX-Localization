@@ -9,7 +9,7 @@
 "SHORT_CUT" = "剪下";
 "SHORT_UNDO" = "還原";
 "SHORT_REDO" = "重做";
-"SHORT_SELECT" = "選擇";
+"SHORT_SELECT" = "選取";
 "SHORT_BEGINNING" = "文頭";
 "SHORT_ENDING" = "文末";
 "SHORT_CAPITALIZE" = "大寫鎖";
@@ -38,14 +38,13 @@
 "SHORT_MOVE_CURSOR_END_OF_PARAGRAPH" = "段末";
 "SHORT_MOVE_CURSOR_START_OF_SENTENCE" = "句首";
 "SHORT_MOVE_CURSOR_END_OF_SENTENCE" = "句尾";
-"SHORT_SELECT_LINE" = "行選取";
-"SHORT_SELECT_PARAGRAPH" = "段選取";
-"SHORT_SELECT_SENTENCE" = "句選取";
+"SHORT_SELECT_LINE" = "選取行";
+"SHORT_SELECT_PARAGRAPH" = "選取段";
+"SHORT_SELECT_SENTENCE" = "選取句";
 "SHORT_GLOBE" = "地球";
 "SHORT_DICTATION" = "聽寫";
 "SHORT_DELETE_FORWARD" = "向後刪除";
-"SHORT_COPY_LOG" = "複製日誌";
-//以下是Cydia Tweak無需翻譯
+"SHORT_COPY_LOG" = "複製紀錄";
 "SHORT_TRANSLOMATIC" = "Trsmtc";
 "SHORT_WASABI" = "Wsbi";
 "SHORT_PASITHEA" = "Psthea";
@@ -55,22 +54,22 @@
 
 //=====================Long Text for Shortcuts=====================
 //Used for showing shortcuts name in "Manage Shortcuts" etc.
-"LONG_SELECT_ALL" = "全部選擇";
+"LONG_SELECT_ALL" = "全部選取";
 "LONG_COPY" = "複製";
 "LONG_PASTE" = "貼上";
 "LONG_CUT" = "剪下";
 "LONG_UNDO" = "還原剛才的動作";
 "LONG_REDO" = "重復剛才的動作";
 "LONG_SELECT" = "編輯";
-"LONG_BEGINNING" = "文章開頭";
-"LONG_ENDING" = "文章結尾";
+"LONG_BEGINNING" = "移動到全文開頭";
+"LONG_ENDING" = "移動到全文末尾";
 "LONG_CAPITALIZE" = "最後一個單字大寫";
-"LONG_LOWERCASE" = "小寫";
-"LONG_UPPERCASE" = "大寫";
+"LONG_LOWERCASE" = "轉換小寫";
+"LONG_UPPERCASE" = "轉換大寫";
 "LONG_DELETE" = "刪除";
-"LONG_BOLD" = "粗體";
-"LONG_ITALIC" = "斜體";
-"LONG_UNDERLINE" = "底線";
+"LONG_BOLD" = "轉換為粗體";
+"LONG_ITALIC" = "轉換為斜體";
+"LONG_UNDERLINE" = "轉換為底線";
 "LONG_DISMISS_KEYBOARD" = "收起鍵盤";
 "LONG_MOVE_CURSOR_LEFT" = "游標向左";
 "LONG_MOVE_CURSOR_RIGHT" = "游標向右";
@@ -82,22 +81,21 @@
 "LONG_DEFINE" = "替代文字";
 "LONG_RUN_COMMAND" = "終端指令";
 "LONG_INSERT_TEXT" = "插入文字";
-"LONG_MOVE_CURSOR_PREVIOUS_WORD" = "前一個字";
-"LONG_MOVE_CURSOR_NEXT_WORD" = "後一個字";
+"LONG_MOVE_CURSOR_PREVIOUS_WORD" = "前一個單字";
+"LONG_MOVE_CURSOR_NEXT_WORD" = "後一個單字";
 "LONG_MOVE_CURSOR_START_OF_LINE" = "移動游標到行頭";
 "LONG_MOVE_CURSOR_END_OF_LINE" = "移動游標到行末";
 "LONG_MOVE_CURSOR_START_OF_PARAGRAPH" = "移動游標到段首";
 "LONG_MOVE_CURSOR_END_OF_PARAGRAPH" = "移動游標到段末";
 "LONG_MOVE_CURSOR_START_OF_SENTENCE" = "移動游標到句首";
 "LONG_MOVE_CURSOR_END_OF_SENTENCE" = "移動游標到句尾";
-"LONG_SELECT_LINE" = "整行選取";
-"LONG_SELECT_PARAGRAPH" = "整段選取";
-"LONG_SELECT_SENTENCE" = "整句選取";
+"LONG_SELECT_LINE" = "選取整行";
+"LONG_SELECT_PARAGRAPH" = "選取整段";
+"LONG_SELECT_SENTENCE" = "選取整句";
 "LONG_GLOBE" = "地球";
 "LONG_DICTATION" = "聽寫";
 "LONG_DELETE_FORWARD" = "往後刪除";
-"LONG_COPY_LOG" = "複製日誌";
-//以下是Cydia Tweak無需翻譯
+"LONG_COPY_LOG" = "複製紀錄";
 "LONG_TRANSLOMATIC" = "Translomatic";
 "LONG_WASABI" = "Wasabi";
 "LONG_PASITHEA" = "Pasithea";
@@ -106,71 +104,71 @@
 "LONG_LOUPE" = "Loupe";
 
 //=====================Toast=====================
-"TOAST_SELECT_ALL" = "全部選擇";
+"TOAST_SELECT_ALL" = "全選";
 "TOAST_COPY" = "複製";
-"TOAST_PASTE" = "貼上";
+"TOAST_PASTE" = 貼上";
 "TOAST_CUT" = "剪下";
 "TOAST_UNDO" = "還原動作";
 "TOAST_REDO" = "重復動作";
-"TOAST_SELECT" = "選擇";
-"TOAST_BEGINNING" = "Beginning";
-"TOAST_ENDING" = "Ending";
-"TOAST_CAPITALIZE" = "Capitalize";
-"TOAST_LOWERCASE" = "lowercase";
-"TOAST_UPPERCASE" = "UPPERCASE";
-"TOAST_DELETE" = "Delete";
-"TOAST_BOLD" = "Bold";
-"TOAST_ITALIC" = "Italic";
-"TOAST_UNDERLINE" = "Underline";
-"TOAST_DISMISS_KEYBOARD" = "Dismiss";
-"TOAST_MOVE_CURSOR_LEFT" = "Left";
-"TOAST_MOVE_CURSOR_RIGHT" = "Right";
-"TOAST_AUTO_CORRECTION" = "Auto-Correction";
-"TOAST_AUTO_CAPITALIZATION" = "Auto-Capitalization";
-"TOAST_KEYBOARD_TYPE" = "Keyboard Input";
-"TOAST_MOVE_CURSOR_UP" = "Up";
-"TOAST_MOVE_CURSOR_DOWN" = "Down";
-"TOAST_DEFINE" = "Define";
-"TOAST_RUN_COMMAND" = "Command";
-"TOAST_INSERT_TEXT" = "Insert";
-"TOAST_MOVE_CURSOR_PREVIOUS_WORD" = "Previous";
-"TOAST_MOVE_CURSOR_NEXT_WORD" = "Next";
-"TOAST_MOVE_CURSOR_START_OF_LINE" = "Start of Line";
-"TOAST_MOVE_CURSOR_END_OF_LINE" = "End of Line";
-"TOAST_MOVE_CURSOR_START_OF_PARAGRAPH" = "Start of Paragraph";
-"TOAST_MOVE_CURSOR_END_OF_PARAGRAPH" = "End of Paragraph";
-"TOAST_MOVE_CURSOR_START_OF_SENTENCE" = "Start of Sentence";
-"TOAST_MOVE_CURSOR_END_OF_SENTENCE" = "End of Sentence";
-"TOAST_SELECT_LINE" = "Select Line";
-"TOAST_SELECT_PARAGRAPH" = "Select Paragraph";
-"TOAST_SELECT_SENTENCE" = "Select Sentence";
-"TOAST_GLOBE" = "Globe";
-"TOAST_DICTATION" = "Dictation";
-"TOAST_DELETE_FORWARD" = "Delete";
-"TOAST_COPY_LOG" = "CopyLog";
+"TOAST_SELECT" = "選取";
+"TOAST_BEGINNING" = "移動到全文開頭";
+"TOAST_ENDING" = "移動到全文末尾";
+"TOAST_CAPITALIZE" = "切換大寫鎖定";
+"TOAST_LOWERCASE" = "轉換小寫";
+"TOAST_UPPERCASE" = "轉換大寫";
+"TOAST_DELETE" = "刪除";
+"TOAST_BOLD" = "切換粗體";
+"TOAST_ITALIC" = "切換斜體";
+"TOAST_UNDERLINE" = "切換底線";
+"TOAST_DISMISS_KEYBOARD" = "收起鍵盤";
+"TOAST_MOVE_CURSOR_LEFT" = "游標向左";
+"TOAST_MOVE_CURSOR_RIGHT" = "游標向右";
+"TOAST_AUTO_CORRECTION" = "自動修正";
+"TOAST_AUTO_CAPITALIZATION" = "自動大寫";
+"TOAST_KEYBOARD_TYPE" = "輸入鍵盤類型";
+"TOAST_MOVE_CURSOR_UP" = "游標向上";
+"TOAST_MOVE_CURSOR_DOWN" = "游標向下";
+"TOAST_DEFINE" = "替換文字";
+"TOAST_RUN_COMMAND" = "終端指令";
+"TOAST_INSERT_TEXT" = "插入文字";
+"TOAST_MOVE_CURSOR_PREVIOUS_WORD" = "前一字";
+"TOAST_MOVE_CURSOR_NEXT_WORD" = "後一字";
+"TOAST_MOVE_CURSOR_START_OF_LINE" = "移動到行頭";
+"TOAST_MOVE_CURSOR_END_OF_LINE" = "移動到行末";
+"TOAST_MOVE_CURSOR_START_OF_PARAGRAPH" = "移動到段首";
+"TOAST_MOVE_CURSOR_END_OF_PARAGRAPH" = "移動到段末";
+"TOAST_MOVE_CURSOR_START_OF_SENTENCE" = "移動到句首";
+"TOAST_MOVE_CURSOR_END_OF_SENTENCE" = "移動到句末";
+"TOAST_SELECT_LINE" = "選取整行";
+"TOAST_SELECT_PARAGRAPH" = "選取整段";
+"TOAST_SELECT_SENTENCE" = "選取整句";
+"TOAST_GLOBE" = "切換輸入鍵盤";
+"TOAST_DICTATION" = "聽寫";
+"TOAST_DELETE_FORWARD" = "刪除";
+"TOAST_COPY_LOG" = "複製紀錄";
 "TOAST_TRANSLOMATIC" = "Translomatic";
 "TOAST_WASABI" = "Wasabi";
 "TOAST_PASITHEA" = "Pasithea";
 "TOAST_SPONGEBOB" = "sPoNge";
 "TOAST_COPYPASTA" = "Copypasta";
 "TOAST_LOUPE" = "Loupe";
-"TOAST_ON" = "On";
-"TOAST_OFF" = "Off";
-"TOAST_KEYBOARD_TYPE_GENERIC" = "Generic";
-"TOAST_KEYBOARD_TYPE_DEFAULT" = "Default";
-"TOAST_KEYBOARD_TYPE_ORIGINAL" = "Original";
-"TOAST_KEYBOARD_TYPE_DECIMAL_PAD" = "Decimal Pad";
-"TOAST_KEYBOARD_TYPE_NUMBER_PAD" = "Number Pad";
-"TOAST_KEYBOARD_TYPE_URL" = "URL";
-"TOAST_KEYBOARD_TYPE_EMAIL" = "eMail";
-"TOAST_KEYBOARD_TYPE_ASCII" = "ASCII";
-"TOAST_KEYBOARD_TYPE_NUMBERS_AND_PUNC" = "Num & Punct.";
-"TOAST_KEYBOARD_TYPE_PHONE_PAD" = "Phone Pad";
-"TOAST_KEYBOARD_TYPE_NAME_AND_PHONE_PAD" = "Name & Phone";
-"TOAST_KEYBOARD_TYPE_TWITTER" = "Twitter";
-"TOAST_KEYBOARD_TYPE_WEB_SEARCH" = "Web Search";
-"TOAST_KEYBOARD_TYPE_NUMBER_PAD_ASCII" = "Number Pad";
-"TOAST_KEYBOARD_TYPE_ALPHABET" = "Alphabet";
+"TOAST_ON" = "開";
+"TOAST_OFF" = "關";
+"TOAST_KEYBOARD_TYPE_GENERIC" = "一般";
+"TOAST_KEYBOARD_TYPE_DEFAULT" = "預設";
+"TOAST_KEYBOARD_TYPE_ORIGINAL" = "原始";
+"TOAST_KEYBOARD_TYPE_DECIMAL_PAD" = "十進位數字鍵盤";
+"TOAST_KEYBOARD_TYPE_NUMBER_PAD" = "數字鍵盤";
+"TOAST_KEYBOARD_TYPE_URL" = "超連結鍵盤";
+"TOAST_KEYBOARD_TYPE_EMAIL" = "電子信箱鍵盤";
+"TOAST_KEYBOARD_TYPE_ASCII" = "ASCII鍵盤";
+"TOAST_KEYBOARD_TYPE_NUMBERS_AND_PUNC" = "數字與符號鍵盤";
+"TOAST_KEYBOARD_TYPE_PHONE_PAD" = "電話鍵盤";
+"TOAST_KEYBOARD_TYPE_NAME_AND_PHONE_PAD" = "姓名與電話鍵盤";
+"TOAST_KEYBOARD_TYPE_TWITTER" = "Twitter鍵盤";
+"TOAST_KEYBOARD_TYPE_WEB_SEARCH" = "網路搜尋鍵盤";
+"TOAST_KEYBOARD_TYPE_NUMBER_PAD_ASCII" = "ASCII數字鍵盤";
+"TOAST_KEYBOARD_TYPE_ALPHABET" = "字母";
 
 //=====================Manage Shortcuts=====================
 //Extras
@@ -213,32 +211,32 @@
 "FOOTER_TEXT_FOR_EXTRAS" = "點一下以客製化。";
 
 "FOOTER_TEXT_FOR_DEFAULT_LONG_PRESS_GESTURES" = "預設長按手勢為:
-Select - select all words
-Select All - select last word
-Copy - select all and copy
-Paste - select all and paste
-Cut - delete last word
-Undo - go to beginning of document
-Redo - go to ending of document
-Beginning of Document - undo
-Ending of Document - redo
-Capitalize Last Word - uppercase last word
-lowercase - uppercase last word
-UPPERCASE - lowercase last word
-Delete - select all and delete
-Delete Forward - select all and delete
-Bold - select last word and toggle bold face
-Italic - select last word and toggle italic
-Underline - select last word and toggle underline
+選擇 - 選擇所有單字
+全部貼上 - 選擇最後單字
+複製 - 全選並複製
+貼上 - 全選並貼上
+剪下 - 刪除最後一個單字
+還原剛才的動作 - 移動到全文開頭
+重復剛才的動作 - 移動到全文末尾
+移動到全文開頭 - 還原剛才的動作
+移動到全文末尾 - 重復剛才的動作
+最後一個單字大寫 - 最後一個單字大寫
+小寫 - 最後一個單字大寫
+大寫 - 最後一個單字小寫
+刪除 - 全選並刪除
+向後刪除 - 全選並刪除
+粗體 - 選擇最後一個單字改為粗體
+斜體 - 選擇最後一個單字改為斜體
+底線 - 選擇最後一個單字改為底線
 游標向左 - 漸進加速將游標向左移動
 游標向右 - 漸進加速將游標向右移動
 游標向上 - 漸進加速將游標向上移動
 游標向下 - 漸進加速將游標向下移動
 輸入鍵盤類型 - 恢復原始輸入鍵盤類型
-前或後一字 - 選擇單字
-行首或行末 - 選擇單行
-段首或段末 - 選擇段落
-句首或句尾  - 選擇句子
+前或後一字 - 選取單字
+行首或行末 - 選取單行
+段首或段末 - 選取段落
+句首或句尾  - 選取句子
 地球 - 啟用聽寫
 sPonGeBob teXt - select all and sPonGeBob";
 
@@ -261,7 +259,7 @@ sPonGeBob teXt - select all and sPonGeBob";
 "FOOTER_OFFSETS_BOTTOM" = "置中";
 "FOOTER_OFFSETS_NOTICE" = "注意：在單手鍵盤模式下，自定義的位移可能無法正常運作。";
 //Insets
-"INSETS" = "插圖大小";
+"INSETS" = "圖示大小";
 "FOOTER_INSETS_TOP" = "距上";
 "FOOTER_INSETS_BOTTOM" = "距下";
 "FOOTER_INSETS_LEFT" = "距左";
@@ -282,7 +280,7 @@ sPonGeBob teXt - select all and sPonGeBob";
 "CURSOR_BEHAVIOR_SINGLE_WORD" = "只有單字";
 "CURSOR_BEHAVIOR_CONTINUOUSLY" = "連續";
 "CURSOR_BEHAVIOR_NODE_TITLE" = "預設長按行為";
-"FOOTER_CURSOR_BEHAVIOR" = "選擇長按時的預設選擇行為。";
+"FOOTER_CURSOR_BEHAVIOR" = "選取長按時的預設選取行為。";
 
 //=====================GESTURES PAGE=====================
 "GESTURES" = "手勢";
@@ -318,7 +316,7 @@ sPonGeBob teXt - select all and sPonGeBob";
 
 //=====================PASTE BEHAVIOR=====================
 "SAFARI" = "Safari";
-"FOOTER_SAFARI" = "選擇「貼上並前往」至 Safari 的導覽列的內容類型。";
+"FOOTER_SAFARI" = "選取「貼上並前往」至 Safari 的導覽列的內容類型。";
 "PASTE_AND_GO_DISABLED" = "已停用";
 "PASTE_AND_GO_URL_ONLY" = "只有超連結";
 "PASTE_AND_GO_EVERYTHING" = "所有文字";
