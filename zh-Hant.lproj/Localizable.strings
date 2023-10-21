@@ -106,7 +106,7 @@
 //=====================Toast=====================
 "TOAST_SELECT_ALL" = "全選";
 "TOAST_COPY" = "複製";
-"TOAST_PASTE" = 貼上";
+"TOAST_PASTE" = "貼上";
 "TOAST_CUT" = "剪下";
 "TOAST_UNDO" = "還原動作";
 "TOAST_REDO" = "重復動作";
@@ -268,7 +268,7 @@ sPonGeBob teXt - select all and sPonGeBob";
 //=====================KEYBOARD INPUT BEHAVIOR=====================
 "DISABLED_INPUT_TYPE" = "停用切換輸入類型";
 "ENABLED_INPUT_TYPE" = "啟用切換輸入類型";
-"FOOTER_ENABLED" = "啟用後可透過捷徑循環切換。如果「預設」類型與「原始」相同，則會跳過「預設」類型。請設定至少兩個項目，包括「原始」。\n\n注意：某些輸入不支援更改鍵盤，DockX 將通過更變圖示為空心/灰色/刪除線來表示此情況。
+"FOOTER_ENABLED" = "啟用後可透過捷徑循環切換。如果「預設」類型與「原始」相同，則會跳過「預設」類型。請設定至少兩個項目，包括「原始」。\n\n注意：某些輸入不支援更改鍵盤，DockX 將通過更變圖示為空心/灰色/刪除線來表示此情況。";
 "RESET_TO_DEFAULT_MESSAGE" = "重設為預設值?";
 "KEYBOARD_INPUT_TYPE_TITLE" = "切換輸入鍵盤";
 
